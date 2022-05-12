@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "coverage/rotate.h"
+#include "rotate.h"
 
 int main() {
     Vector<int> vec(1, 2);
