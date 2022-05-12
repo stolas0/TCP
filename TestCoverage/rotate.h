@@ -12,6 +12,7 @@ struct Vector {
     }
 };
 
+
 template<class T>
 Vector<T> rotate(const Vector<T>& v, int degree) {
 
